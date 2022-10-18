@@ -1,0 +1,21 @@
+[
+  {
+    "type": "lion",
+    "height": 70,
+    "weight": 150,
+    "age": 15
+  },
+  {
+    "type": "tiger",
+    "height": 65,
+    "weight": 120,
+    "age": 10
+  },
+  {
+    "type": "monkey",
+    "height": 90,
+    "weight": 45,
+    "age": 12,
+    "tailLength": 5
+  }
+]
