@@ -1,184 +1,183 @@
 {
   "animals": [
     {
-      "name": "Tremayne",
+      "name": "George",
       "kind": "tiger",
-      "height": 98,
-      "weight": 137,
-      "age": 16
+      "height": 209,
+      "weight": 75,
+      "age": 10
     },
     {
-      "name": "Mose",
+      "name": "Robin",
       "kind": "lion",
-      "height": 112,
-      "weight": 211,
-      "age": 14
-    },
-    {
-      "name": "Otilia",
-      "kind": "lion",
-      "height": 114,
-      "weight": 181,
-      "age": 3
-    },
-    {
-      "name": "Rhea",
-      "kind": "lion",
-      "height": 99,
-      "weight": 216,
-      "age": 18
-    },
-    {
-      "name": "Grayce",
-      "kind": "lion",
-      "height": 107,
-      "weight": 208,
+      "height": 168,
+      "weight": 70,
       "age": 8
     },
     {
-      "name": "Cesar",
+      "name": "Sigurd",
       "kind": "tiger",
-      "height": 84,
-      "weight": 155,
+      "height": 166,
+      "weight": 79,
+      "age": 25
+    },
+    {
+      "name": "Edward",
+      "kind": "monkey",
+      "height": 150,
+      "weight": 60,
+      "age": 14,
+      "tailLength": 2
+    },
+    {
+      "name": "Elouise",
+      "kind": "tiger",
+      "height": 181,
+      "weight": 90,
+      "age": 15
+    },
+    {
+      "name": "Marshall",
+      "kind": "monkey",
+      "height": 164,
+      "weight": 92,
+      "age": 18,
+      "tailLength": 29
+    },
+    {
+      "name": "Claire",
+      "kind": "lion",
+      "height": 210,
+      "weight": 101,
       "age": 24
     },
     {
-      "name": "Kelsie",
-      "kind": "tiger",
-      "height": 86,
-      "weight": 186,
-      "age": 9
-    },
-    {
-      "name": "Agustin",
+      "name": "Kari",
       "kind": "lion",
-      "height": 98,
-      "weight": 204,
-      "age": 18
-    },
-    {
-      "name": "Trystan",
-      "kind": "tiger",
-      "height": 96,
-      "weight": 160,
-      "age": 20
-    },
-    {
-      "name": "Ima",
-      "kind": "tiger",
-      "height": 86,
-      "weight": 163,
-      "age": 13
-    },
-    {
-      "name": "Walter",
-      "kind": "lion",
-      "height": 92,
-      "weight": 191,
-      "age": 14
-    },
-    {
-      "name": "Burnice",
-      "kind": "monkey",
-      "height": 123,
-      "weight": 63,
-      "age": 7,
-      "tailLength": 8
-    },
-    {
-      "name": "Crystel",
-      "kind": "lion",
-      "height": 107,
-      "weight": 165,
-      "age": 15
-    },
-    {
-      "name": "Roosevelt",
-      "kind": "tiger",
-      "height": 92,
-      "weight": 213,
+      "height": 200,
+      "weight": 78,
       "age": 12
     },
     {
-      "name": "Ana",
-      "kind": "monkey",
-      "height": 98,
-      "weight": 60,
-      "age": 3,
-      "tailLength": 4
-    },
-    {
-      "name": "Terrell",
-      "kind": "tiger",
-      "height": 80,
-      "weight": 105,
-      "age": 22
-    },
-    {
-      "name": "Althea",
-      "kind": "tiger",
-      "height": 89,
-      "weight": 213,
-      "age": 19
-    },
-    {
-      "name": "Marilie",
+      "name": "Adriel",
       "kind": "lion",
-      "height": 128,
-      "weight": 151,
-      "age": 15
+      "height": 161,
+      "weight": 65,
+      "age": 18
     },
     {
-      "name": "Jamel",
-      "kind": "monkey",
-      "height": 122,
-      "weight": 72,
-      "age": 12,
-      "tailLength": 16
-    },
-    {
-      "name": "Virginie",
+      "name": "Trenton",
       "kind": "tiger",
-      "height": 95,
-      "weight": 194,
+      "height": 155,
+      "weight": 64,
       "age": 16
     },
     {
-      "name": "Simone",
-      "kind": "monkey",
-      "height": 102,
-      "weight": 59,
-      "age": 25,
-      "tailLength": 33
+      "name": "Jace",
+      "kind": "lion",
+      "height": 154,
+      "weight": 73,
+      "age": 21
     },
     {
-      "name": "Cleta",
+      "name": "Theodora",
       "kind": "tiger",
-      "height": 87,
-      "weight": 153,
+      "height": 157,
+      "weight": 112,
+      "age": 8
+    },
+    {
+      "name": "Fern",
+      "kind": "lion",
+      "height": 183,
+      "weight": 115,
+      "age": 5
+    },
+    {
+      "name": "Icie",
+      "kind": "tiger",
+      "height": 166,
+      "weight": 116,
+      "age": 15
+    },
+    {
+      "name": "Mathias",
+      "kind": "monkey",
+      "height": 195,
+      "weight": 91,
+      "age": 1,
+      "tailLength": 0
+    },
+    {
+      "name": "Cristal",
+      "kind": "tiger",
+      "height": 154,
+      "weight": 128,
+      "age": 20
+    },
+    {
+      "name": "Meggie",
+      "kind": "lion",
+      "height": 165,
+      "weight": 76,
+      "age": 23
+    },
+    {
+      "name": "Chadd",
+      "kind": "monkey",
+      "height": 192,
+      "weight": 75,
+      "age": 3,
+      "tailLength": 1
+    },
+    {
+      "name": "Lydia",
+      "kind": "tiger",
+      "height": 189,
+      "weight": 79,
+      "age": 6
+    },
+    {
+      "name": "Nasir",
+      "kind": "tiger",
+      "height": 167,
+      "weight": 106,
       "age": 4
     },
     {
-      "name": "Alden",
+      "name": "Marge",
       "kind": "tiger",
-      "height": 90,
-      "weight": 165,
+      "height": 204,
+      "weight": 100,
       "age": 11
     },
     {
-      "name": "Joyce",
-      "kind": "lion",
-      "height": 104,
-      "weight": 202,
-      "age": 9
+      "name": "Deontae",
+      "kind": "tiger",
+      "height": 197,
+      "weight": 71,
+      "age": 18
     },
     {
-      "name": "Sammie",
-      "kind": "monkey",
-      "height": 115,
-      "weight": 39,
-      "age": 18,
-      "tailLength": 22
+      "name": "Amani",
+      "kind": "lion",
+      "height": 157,
+      "weight": 114,
+      "age": 18
+    },
+    {
+      "name": "Crawford",
+      "kind": "lion",
+      "height": 204,
+      "weight": 63,
+      "age": 7
+    },
+    {
+      "name": "Tremayne",
+      "kind": "tiger",
+      "height": 156,
+      "weight": 97,
+      "age": 12
     }
   ]
 }
